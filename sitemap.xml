@@ -70,6 +70,18 @@
   </url>
   
   <url>
+    <loc>https://haiteng-wang.github.io/tags/job/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haiteng-wang.github.io/job/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://haiteng-wang.github.io/life/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -86,6 +98,12 @@
     <loc>https://haiteng-wang.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://haiteng-wang.github.io/job/chapter-1/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

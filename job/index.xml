@@ -14,9 +14,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://haiteng-wang.github.io/job/chapter-1/</guid>
-      <description>
-
-&lt;pre&gt;&lt;code&gt;We are delighted to be able to inform the reader, that during the whole of
+      <description>&lt;pre&gt;&lt;code&gt;We are delighted to be able to inform the reader, that during the whole of
 this scene, Gringoire and his piece had stood firm. His actors, spurred on
 by him, had not ceased to spout his comedy, and he had not ceased to
 listen to it. He had made up his mind about the tumult, and was determined
@@ -30,132 +28,6 @@ the part of the public.
 &lt;p&gt;偶然发现个&lt;a href=&#34;http://geekplux.com&#34;&gt;程序员牛人geekplux&lt;/a&gt;，可参考&lt;a href=&#34;http://geekplux.com/wiki/&#34;&gt;wiki-&amp;gt;Job&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/geekcompany/ResumeSample&#34;&gt;程序员简历模板&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;联系方式&#34;&gt;联系方式&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;手机： (+86)155-4237-2074（最优联系时间12:00 - 13:30）&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;邮箱：llllhaiteng@gmail.com&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;微信：15542372074&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;个人信息&#34;&gt;个人信息&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;王海腾 | Hunter/男/1992&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;专科/北京经贸职业技术学院&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;工作年限：3年&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;微博：&lt;a href=&#34;http://weibo.com/5789315177/profile?rightmod=1&amp;amp;wvr=6&amp;amp;mod=personinfo&#34;&gt;@Hunter_Dude&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;技术博客：&lt;a href=&#34;https://HaiTeng-Wang.github.io&#34;&gt;https://HaiTeng-Wang.github.io&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Github：&lt;a href=&#34;https://github.com/HaiTeng-Wang&#34;&gt;https://github.com/HaiTeng-Wang&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;期望职位：iOS高级程序员，应用架构师&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;期望薪资：税前月薪15k~20k，特别喜欢的公司可例外&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;期望城市：上海&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;工作经历&#34;&gt;工作经历&lt;/h2&gt;
-
-&lt;h3 id=&#34;央金所杭州科技公司-2017年2月-至今&#34;&gt;央金所杭州科技公司(2017年2月 ~ 至今)&lt;/h3&gt;
-
-&lt;h4 id=&#34;央金所理财&#34;&gt;- 央金所理财&lt;/h4&gt;
-
-&lt;p&gt;互联网金融平台P2P理财类APP。 (&lt;code&gt;Xcode8.3&lt;/code&gt; &lt;code&gt;OC&lt;/code&gt;开发，逐步迁移&lt;code&gt;Swift3.0+&lt;/code&gt;)&lt;/p&gt;
-
-&lt;p&gt;我在此项目中主要负责带领一个1人iOS端小组进行版本迭代。快速上手工作，编写技术文档；搭建&lt;code&gt;git&lt;/code&gt;仓库；&lt;code&gt;podSpec&lt;/code&gt;私有化组件开发。&lt;/p&gt;
-
-&lt;p&gt;17年6月2.0.0版本迭代上线。全新的UI设计，BUG率低至1%，App性能优化50%以上。很好用户体验，使App日活显著提升。注册用户新增10+%。&lt;/p&gt;
-
-&lt;p&gt;这个项目中，最困难的问题是工程目录凌乱，沉余文件，沉余代码，重复代码大量存在，导致迭代吃力。秉承“高内聚，低耦合”的核心编码理念。我采取了“先删，然后调整，从而内聚，再优化”的措施。适适的遵循“DRY”原则，最后极大的提升代码的“可读性、可改性、可维护性”。&lt;/p&gt;
-
-&lt;p&gt;项目中我最自豪的技术细节是，标的进度渐变动画、数字动画、右滑返回上一页面。使App变得更有活力，流畅度更佳。实施前App整体较生硬，实施后App更具灵活性。同事和领导对此一度好评，并在工作群组中发出夸奖文章。&lt;/p&gt;
-
-&lt;h3 id=&#34;上海相誉网络科技有限公司-2015年11月-2017年2月&#34;&gt;上海相誉网络科技有限公司(2015年11月 ~ 2017年2月)&lt;/h3&gt;
-
-&lt;h4 id=&#34;析金法-iphone版&#34;&gt;- 析金法(iPhone版)&lt;/h4&gt;
-
-&lt;p&gt;金融教育平台，电商类APP。 直播名师讲盘；视频播放百科、学堂、从业；售课。 (16年成功上线运营，迭代到1.7版本。支持&lt;code&gt;iPad&lt;/code&gt;。&lt;code&gt;Xcode7.0+&lt;/code&gt;，&lt;code&gt;OC+Swift2.3&lt;/code&gt;混编，逐步迁移&lt;code&gt;Swift3.0+&lt;/code&gt;)&lt;/p&gt;
-
-&lt;p&gt;我在此项目中主要负责根据产品需求完成iOS应用程序的模块设计，编码集成，编写高质量结构清晰、易读、易维护代码；&lt;/p&gt;
-
-&lt;p&gt;保证，高质量代码，低BUG，流畅的用户体验下，也保证了项目按时上线，获得领导夸奖，并且得到奖励金。&lt;/p&gt;
-
-&lt;p&gt;这个项目中我遇到最多的问题，也是最让我开心的事情是OC迁移Swift。因为首次编写Swift，对Swift的许多语法和特性掌握的不深刻，所以在学习Swift的同时，我参考Swift官方文档将自己的学习记录下来，最后我爱上了Swift、RxSwift，也爱上写作。&lt;/p&gt;
-
-&lt;h4 id=&#34;析金法-ipad版&#34;&gt;- 析金法(iPad版)&lt;/h4&gt;
-
-&lt;p&gt;七个工作日的紧迫时间，自动适配iPad。Swift编写iPad版直播页，视频播放页。&lt;/p&gt;
-
-&lt;h3 id=&#34;北京智能联系科技有限公司-2014年12月-2015年10月&#34;&gt;北京智能联系科技有限公司(2014年12月 ~ 2015年10月)&lt;/h3&gt;
-
-&lt;h4 id=&#34;景区宝&#34;&gt;- 景区宝&lt;/h4&gt;
-
-&lt;p&gt;旅行服务类App。提供语音讲解；地图导航；记录旅行日志；评论分享等功能。&lt;/p&gt;
-
-&lt;p&gt;我在此项目中主要负责iOS平台应用程序的代码维护，Bug修复，版本迭代，发布Appstore，编写景区商城模块。&lt;/p&gt;
-
-&lt;h2 id=&#34;开源项目和作品&#34;&gt;开源项目和作品&lt;/h2&gt;
-
-&lt;h3 id=&#34;个人项目&#34;&gt;个人项目&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;留声机HT&lt;/p&gt;
-
-&lt;p&gt;音频类App，16年上架AppStore。&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;开源项目&#34;&gt;开源项目&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/HaiTeng-Wang/Swift-VIPER-Rx&#34;&gt;Swift-VIPER-Rx&lt;/a&gt;：VIPER架构模型。展示类的单一责任，Swift的一些语法，常用的三方库。数据类管理者。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://git.oschina.net/Ccfax_YJS/ccfaxPagerTab&#34;&gt;PagerTabBar&lt;/a&gt; 页面滑动转换器。左右滑动转换页面，TabBar支持小红点显示。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;技术文章&#34;&gt;技术文章&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jianshu.com/p/7e2f9999aeeb&#34;&gt;podspec&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jianshu.com/p/8103058c9b4e&#34;&gt;Architecting iOS Apps with VIPER(译)&lt;/a&gt;、&lt;a href=&#34;http://www.jianshu.com/p/340b39c6d256&#34;&gt;iOS架构模式-VIPER&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;演讲和讲义&#34;&gt;演讲和讲义&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;公司内部分享：UIView与UIViewController、iOS多线程、 DRY&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;技能清单&#34;&gt;技能清单&lt;/h2&gt;
-
-&lt;p&gt;以下均为我熟练使用的技能&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;iOS开发：Objective-C/Swift&lt;/li&gt;
-&lt;li&gt;iOS框架：CoreServices/CFNetWork/Foundation/WebKit/StoreKit/EventKit、MediaLayer/AVFoundation/ImageIO/QuartzCore、CocoaTouch/UIKit&lt;/li&gt;
-&lt;li&gt;开发工具：Xcode/AppCode、BeyondCompare/Atom&lt;/li&gt;
-&lt;li&gt;数据持久化：NSUserDefaults/NSKeyedArchive/SQLite&lt;/li&gt;
-&lt;li&gt;版本管理：Git&lt;/li&gt;
-&lt;li&gt;单元测试： OCUnit/GHUnit&lt;/li&gt;
-&lt;li&gt;敏捷开发：Team/tower/teambition、Bug/mantis/shimo、Data/postman、UI/zeplin&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;参考关键字&#34;&gt;参考关键字&lt;/h3&gt;
-
-&lt;p&gt;&lt;code&gt;iOS&lt;/code&gt; &lt;code&gt;iPhone&lt;/code&gt; &lt;code&gt;MacOS&lt;/code&gt; &lt;code&gt;Mac&lt;/code&gt;  &lt;code&gt;Objective-C&lt;/code&gt; &lt;code&gt;Swift&lt;/code&gt; &lt;code&gt;App&lt;/code&gt;  &lt;code&gt;SDK&lt;/code&gt; &lt;code&gt;Xcode&lt;/code&gt;  &lt;code&gt;http&lt;/code&gt; &lt;code&gt;tcp&lt;/code&gt; &lt;code&gt;socket&lt;/code&gt; &lt;code&gt;xml&lt;/code&gt; &lt;code&gt;json&lt;/code&gt; &lt;code&gt;Cocoa&lt;/code&gt;  &lt;code&gt;Appstore&lt;/code&gt; &lt;code&gt;Interface&lt;/code&gt; &lt;code&gt;Builder&lt;/code&gt;  &lt;code&gt;MVC&lt;/code&gt; &lt;code&gt;MVVC&lt;/code&gt; &lt;code&gt;Sqlite&lt;/code&gt; &lt;code&gt;UIKit&lt;/code&gt;  &lt;code&gt;linux&lt;/code&gt; &lt;code&gt;Git&lt;/code&gt; &lt;code&gt;Github&lt;/code&gt;  &lt;code&gt;UI&lt;/code&gt; &lt;code&gt;autolayout&lt;/code&gt; &lt;code&gt;XIB&lt;/code&gt; &lt;code&gt;Storyboard&lt;/code&gt;  &lt;code&gt;stackoverflow&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;致谢&#34;&gt;致谢&lt;/h2&gt;
-
-&lt;p&gt;感谢您花时间阅读我的简历，期待能有机会和您共事。&lt;/p&gt;
 </description>
     </item>
     
